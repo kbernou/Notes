@@ -25,8 +25,8 @@ This list is _roughly_ in order of priority.
 ## Broadened Horizons
 
 ### Functional Programing
+* Elixir
 * Clojure
-* Elixir?
 
 ### Scripting Languages
 * Python
