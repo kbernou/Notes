@@ -34,8 +34,8 @@ This is an example of a [reference link][ref link 1]
 This is another example of a [reference link][other-ref-link]
 But look, we're bat at the [first][ref link 1] link!
 
-[ref link 1]: www.github.com
-[other-ref-link]: www.news.ycombinator.com
+[ref link 1]: http://www.github.com
+[other-ref-link]: http://www.news.ycombinator.com
 
 ## Image Links
 
