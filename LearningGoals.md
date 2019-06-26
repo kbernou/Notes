@@ -6,8 +6,8 @@ Notes should also be taken during the learning process for each topic to reinfor
 This list is _roughly_ in order of priority.
 
 ## Note Taking
-*  Markdown
-    * Store this on GitHub
+*  ~~Markdown~~ Complete!
+    * ~~Store this on GitHub~~
 
 ## Virtualization (Primary Reason: DevOps)
 * Docker
@@ -17,7 +17,7 @@ This list is _roughly_ in order of priority.
     * Kubernetes is often seen as the enterprise grade solution, whereas Docker Swarm is the small to medium scale solution. With that said, Kubernetes is very widespread, and having it is valuable and will help with learning Swarm or getting a foot in the door since they both fulfil similar roles.
 * Vagrant?
 
-## CI Pipeline (DevOps)
+## CI/CD Pipeline (DevOps)
 * Ansible
 * AWS
     * [AWS Certified DevOps Engineer – Professional (Free)](https://www.aws.training/learningobject/wbc?id=34146)
