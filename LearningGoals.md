@@ -35,6 +35,7 @@ This list is _roughly_ in order of priority.
 
 ### Misc.
 * Go
+* Ruby
 
 ## Serverless/Cloud Infrastructure
 * AWS
