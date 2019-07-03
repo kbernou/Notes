@@ -8,6 +8,7 @@ This list is _roughly_ in order of priority.
 ## Note Taking
 *  ~~Markdown~~ Complete!
     * ~~Store this on GitHub~~
+* LaTeX 
 
 ## Virtualization (Primary Reason: DevOps)
 * Docker
