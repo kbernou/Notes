@@ -34,6 +34,8 @@ This is an example of a [reference link][ref link 1]
 This is another example of a [reference link][other-ref-link]
 But look, we're bat at the [first][ref link 1] link!
 
+Also you can [jump](#image-links) to other places in the same page (at least on Github).
+
 [ref link 1]: http://www.github.com
 [other-ref-link]: http://www.news.ycombinator.com
 
