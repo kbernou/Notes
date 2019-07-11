@@ -77,7 +77,7 @@ _Note_: Ordered lists don't even need to have the numbers places correctly. The 
 1. Third item
 
 * Nested Lists
-    * Just use one more space than the parent element has (or a tab, depending)
+    * Just use several more spaces than the parent element has
     * EZ PZ
         * Oh look, more depth
     * Back up one
