@@ -1,11 +1,13 @@
 # Markdown Reference Sheet
 
 ## Basic Formatting
-_italic_
+Surround text with "_" to get _italics_.
 
-**bold**
+Surround text with "**" to get **bold**.
 
-**_both_**
+And **_both_** can be done.
+
+Surround text with "~~" to get ~~strikethrough~~.
 
 A horizontal rule can be created with "---" and an extra new line:
 
