@@ -37,6 +37,8 @@ This list is _roughly_ in order of priority.
 ### Misc.
 * Go
 * Ruby
+* TypeScript
+   * While it isn't too far off from JS, it's gaining popularity and familiariy with it would be a boon.
 
 ## Serverless/Cloud Infrastructure
 * AWS
