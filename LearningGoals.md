@@ -22,7 +22,8 @@ This list is _roughly_ in order of priority.
 * Ansible
 * AWS
     * [AWS Certified DevOps Engineer – Professional (Free)](https://www.aws.training/learningobject/wbc?id=34146)
-
+* Azure DevOps
+ 
 ## Broadened Horizons
 
 ### Functional Programing
