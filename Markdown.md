@@ -98,7 +98,7 @@ JS:
     let bar = 1;
     console.log(foo + bar);
 ```
-Multiline code blocks can also be created by indenting lines with 4 spaces
+Multiline code blocks can also be created by indenting lines with 4 spaces:
      
      if (value == true) 
      {
@@ -129,7 +129,7 @@ Ordered lists can be achieved by using numbers instead:
 2. An _Ordered List_
 3. Just like writing normally
 
-_Ordered lists don't even need to have the numbers increment. The following renders the same as above:
+Ordered lists don't even need to have the numbers increment. The following renders the same as above:
 ```md
 1. First item
 1. Second item
@@ -150,7 +150,7 @@ However, the first number used in an ordered list determines the first number:
 1. Second item
 1. Third item
    
-Lists can be nested:
+Lists can be nested (but for clarity, it's reccomended to go no more than 3 levels deep):
 ```md
 * Nested Lists
     * Just use several more spaces than the parent element has
@@ -158,7 +158,6 @@ Lists can be nested:
         * Oh look, more depth
     * Back up one
 * And back to the start
-* Best practice is going no more than 3 levels deep
 ```
 
 * Nested Lists
@@ -167,7 +166,6 @@ Lists can be nested:
         * Oh look, more depth
     * Back up one
 * And back to the start
-* Best practice is going no more than 3 levels deep
 
 Lists can also be multi-line and of mixed type:
 ```md
