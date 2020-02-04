@@ -239,4 +239,4 @@ The break rules apply to lists as well:
 [GitHub Markdown](https://guides.github.com/features/mastering-markdown/#intro)  
 [Learn X in Y Mins](https://learnxinyminutes.com/docs/markdown/)  
 [Markdown Tutorial](https://www.markdowntutorial.com) (Basic)  
-[Markdown Here's Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+[Adap P's Markdown Here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
