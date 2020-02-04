@@ -6,21 +6,25 @@ Notes should also be taken during the learning process for each topic to reinfor
 This list is _roughly_ in order of priority.
 
 ## Note Taking
-*  ~~Markdown~~ Complete!
+*  ~~[Markdown](./Markdown.md)~~ Complete!
     * ~~Store this on GitHub~~
 * LaTeX 
 
-## Virtualization (Primary Reason: DevOps)
-* Docker
+## Containerization and Orchestration (Primary Reason: DevOps)
+* [Docker](./Docker.md)
     * [Tutorial](https://www.katacoda.com/courses/docker)
-* Kubernetes
+* [Kubernetes](./Kubernetes.md)
     * [Tutorial](https://www.katacoda.com/courses/kubernetes)
     * Kubernetes is often seen as the enterprise grade solution, whereas Docker Swarm is the small to medium scale solution. With that said, Kubernetes is very widespread, and having it is valuable and will help with learning Swarm or getting a foot in the door since they both fulfil similar roles.
 * Vagrant?
 
 ## CI/CD Pipeline (DevOps)
+* Jenkins
+    * Fairly common and poweful
 * Ansible
+    * Faily common and powerful when it comes to automation
 * AWS
+    * Another common one
     * [AWS Certified DevOps Engineer – Professional (Free)](https://www.aws.training/learningobject/wbc?id=34146)
 * Azure DevOps
  
@@ -32,14 +36,14 @@ This list is _roughly_ in order of priority.
 
 ### Scripting Languages
 * Python
-* Bash (GNU/Linux)
-* Powershell (Windows)
+* Bash
+* Powershell
 
 ### Misc.
 * Go
 * Ruby
 * TypeScript
-   * While it isn't too far off from JS, it's gaining popularity and familiariy with it would be a boon.
+   * While it isn't too far off from JS, it's gaining popularity and familiariy with it would be a boon. 've also encountered problems in projects at work that would have been circumvented with proper typing.
 
 ## Serverless/Cloud Infrastructure
 * AWS
