@@ -1,5 +1,15 @@
 # Markdown Reference Sheet
+## Contents
+[Headers](#Headers)  
+[Basic Formatting](#Basic-Formatting)  
+[Links](#links)  
+[Quotes](#block-quotes)  
+[Code](#code)  
+[Lists](#lists)  
+[Paragraphs and Breaks](#paragraphs-and-breaks)  
+[References](#references)
 
+---
 ## Headers
 Using headers liberally and sectioning out notes like that is beneficial for organization. 1 and 6 should be used sparingly.
 
@@ -17,7 +27,7 @@ Using headers liberally and sectioning out notes like that is beneficial for org
 #### Header 4
 ##### Header 5
 ###### Header 6
-
+---
 ## Basic Formatting
 
 `_italic_`: _italic_
@@ -71,7 +81,7 @@ Inline image links with alt text is possible as well by prefacing the text porti
 
 ![This is alt text for an image link](https://upload.wikimedia.org/wikipedia/commons/0/06/Kitten_in_Rizal_Park%2C_Manila.jpg)
 ##### Image Credit: Kenny Louie from Vancouver, Canada [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-
+---
 ## Block Quotes
 
 Starting a line with `>` creates a block quote
@@ -84,7 +94,7 @@ Over multiple paragraphs you must duplicate the `>`, including blank lines
 > They look like _this_. 
 >
 > Blank lines should get the ">" as well.
-
+---
 ## Code
 This is technically extended Markdown, but GitHub supports it and that's where these notes are going.
 
@@ -104,7 +114,7 @@ Multiline code blocks can also be created by indenting lines with 4 spaces:
      {
          DoThing();
      }
-
+---
 ## Lists
 
 Unordered lists can be created by putting a `*` at the start of the line:
@@ -193,7 +203,7 @@ Lists can also be multi-line and of mixed type:
 
     * Plus nested lists still work
     * So much nesting
-
+---
 ## Paragraphs and Breaks
 A hard break requires a blank line between lines:
 ```md
@@ -232,7 +242,7 @@ The break rules apply to lists as well:
  And this the next. 
  But all under one list item  
 2. The double space can go at the end of the list item as well to produce the above
-
+---
 ## References
 [GitHub Markdown](https://guides.github.com/features/mastering-markdown/#intro)  
 [Learn X in Y Mins](https://learnxinyminutes.com/docs/markdown/)  
