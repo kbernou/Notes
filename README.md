@@ -49,6 +49,8 @@ This list is _roughly_ in order of priority.
 * Powershell
 
 ### Misc.
+* gRPC/protobuf
+  * Seems to be up-and-coming, may take some space from REST
 * Go
 * Ruby
 * TypeScript
