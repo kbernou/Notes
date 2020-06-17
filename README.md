@@ -41,6 +41,7 @@ This list is _roughly_ in order of priority.
 
 ### Functional Programing
 * Elixir
+* Elm
 * Clojure
 
 ### Scripting Languages
@@ -54,7 +55,6 @@ This list is _roughly_ in order of priority.
 * Go
 * Ruby
 * TypeScript
-   * While it isn't too far off from JS, it's gaining popularity and familiariy with it would be a boon. 've also encountered problems in projects at work that would have been circumvented with proper typing.
-
+   * Fixes Javascript, gaining popularity (thank goodness)
 ### Serverless/Cloud Infrastructure
 * AWS
