@@ -41,6 +41,7 @@ This list is _roughly_ in order of priority.
 
 ### Functional Programing
 * Elixir
+   * Mnesia (Distributed ETS)
 * Elm
 * Clojure
 
