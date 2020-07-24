@@ -44,7 +44,9 @@ This list is _roughly_ in order of priority.
    * Mnesia (Distributed ETS)
    * Phoenix (as well as LiveView in particular)
 * Elm
+   * An alternative to JS in the front end that's generally praised? Sign me up!
 * Clojure
+   * Functional, hearing about it more and more, also generally praised.
 
 ### Scripting Languages
 * Python
