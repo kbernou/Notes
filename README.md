@@ -1,6 +1,4 @@
 # Technology Notes
-
-## Overview
 This is a collection of personal notes and quick references that I'm creating as I go through and learn new (to me) technologies.
 
 ## Learning Goals
