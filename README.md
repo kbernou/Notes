@@ -24,41 +24,40 @@ This list is _roughly_ in order of priority.
     * [Tutorial](https://www.katacoda.com/courses/docker)
 * [Kubernetes](./Kubernetes.md)
     * [Tutorial](https://www.katacoda.com/courses/kubernetes)
-    * Kubernetes is often seen as the enterprise grade solution, whereas Docker Swarm is the small to medium scale solution. With that said, Kubernetes is very widespread, and having it is valuable and will help with learning Swarm or getting a foot in the door since they both fulfil similar roles.
+    * Very common these days
 * Vagrant?
 
 ### CI/CD Pipeline (DevOps)
 * Jenkins
     * Fairly common and poweful
+    * Open source
+* Gitlab
+    * Actually liked
+    * Open source
+    * Should be just as capable as Jenkins
 * Ansible
-    * Faily common and powerful when it comes to automation
+    * Fairly common and powerful when it comes to automation/provisioning
 * AWS
     * Another common one
     * [AWS Certified DevOps Engineer – Professional (Free)](https://www.aws.training/learningobject/wbc?id=34146)
 * Azure DevOps
- 
+
+
 ## Broadened Horizons
 
 ### Functional Programing
 * Elixir
    * Mnesia (Distributed ETS)
    * Phoenix (as well as LiveView in particular)
-* Elm
-   * An alternative to JS in the front end that's generally praised? Sign me up!
 * Clojure
-   * Functional, hearing about it more and more, also generally praised.
-
-### Scripting Languages
-* Python
-* Bash
-* Powershell
+   * Functional, hearing about it more and more, also generally liked among its community.
 
 ### Misc.
-* gRPC/protobuf
-  * Seems to be up-and-coming, may take some space from REST
+* GraphQL
 * Go
-* Ruby
+* Rust 
 * TypeScript
    * Fixes Javascript, gaining popularity (thank goodness)
+
 ### Serverless/Cloud Infrastructure
 * AWS
